@@ -1,0 +1,17 @@
+﻿  Button.cpp
+  GameFeature.cpp
+C:\Dev\FUNGAME\Project1\GameFeature.cpp(52,45): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Dev\FUNGAME\Project1\GameFeature.cpp(53,47): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  Game_Base.cpp
+  LTexture.cpp
+  main.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Dev\FUNGAME\Project1\x64\Debug\FunGame.exe
